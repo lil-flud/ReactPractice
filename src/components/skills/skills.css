@@ -1,0 +1,16 @@
+/* .skill-row{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    min-width: 112.5%;
+
+    background-color: rgba(37, 50, 55, 0.8);
+    border: 2px solid #D64933;
+    border-radius: 0 60px 60px 0;
+    padding: 20px 20px 20px 10%;
+    left: -25%;
+    margin-bottom: 5%; */
+    /* transition: 0.5s; */
+
+    /* TAKE BACKGROUND AND SIZING FROM SKILL-ROWS AND APPLY HERE TO ALLOW SEAMLESS ALIGNMENT OF ICONS WHILE MAINTAINING AESTHETIC */
+/* } */
